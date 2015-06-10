@@ -1,0 +1,13 @@
+SmartBeacon\sensors\NFC\NFCReader.class
+SmartBeacon\SmartBeaconv2.class
+SmartBeacon\sensors\NFC\NFCReader$NfcListener.class
+SmartBeacon\sensors\NFC\NFCRecord.class
+SmartBeacon\sensors\tilt\TiltSensor.class
+SmartBeacon\Advertising\BLEAdvertiser.class
+SmartBeacon\Advertising\AdvertisingPreparer.class
+SmartBeacon\Beacon.class
+SmartBeacon\sensors\GPS\GPSReceiver.class
+SmartBeacon\sensors\NFC\NFCReader$1.class
+SmartBeacon\sensors\tilt\TiltSensor$1.class
+SmartBeacon\sensors\tilt\TiltSensor$TiltListener.class
+SmartBeacon\Utils\HexConverter.class
