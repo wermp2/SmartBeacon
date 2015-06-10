@@ -1,0 +1,2 @@
+# SmartBeacon
+Bachelor Thesis
