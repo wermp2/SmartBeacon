@@ -1,0 +1,8 @@
+C:\Users\Pixel\AndroidStudioProjects\BluetoothLeGatt\Application\build\intermediates\classes\release
+C:\Users\Pixel\AndroidStudioProjects\BluetoothLeGatt\Application\build\intermediates\pre-dexed\release\internal_impl-21.0.2-01fb2e154f2de7bcc842529709800ec302791af5.jar
+C:\Users\Pixel\AndroidStudioProjects\BluetoothLeGatt\Application\build\intermediates\pre-dexed\release\support-annotations-21.0.3-d441ad9785128c4aa66cc3efeb1351fd11ff9924.jar
+C:\Users\Pixel\AndroidStudioProjects\BluetoothLeGatt\Application\build\intermediates\pre-dexed\release\classes-dbf737a9956982497376ceb56a97b86757cd2630.jar
+C:\Users\Pixel\AndroidStudioProjects\BluetoothLeGatt\Application\build\intermediates\pre-dexed\release\classes-a48823816b1714919fb7fbd1415f3ef3ee032feb.jar
+C:\Users\Pixel\AndroidStudioProjects\BluetoothLeGatt\Application\build\intermediates\pre-dexed\release\classes-806c3f8fa41b13b8f38928abdcb23461174d0fa6.jar
+C:\Users\Pixel\AndroidStudioProjects\BluetoothLeGatt\Application\build\intermediates\pre-dexed\release\internal_impl-21.0.3-f544308e6e8400dfe221b6ab7113389bc8dad09d.jar
+C:\Users\Pixel\AndroidStudioProjects\BluetoothLeGatt\Application\build\intermediates\pre-dexed\release\classes-691b06b4c5657685d7c194c59be9234be317dba2.jar

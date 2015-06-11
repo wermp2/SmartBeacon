@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Pixel\AndroidStudioProjects\BluetoothLeGatt_Visitors\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9346da9fb778af9e451211bbc3541daced174ba7">
+        <dex dex="C:\Users\Pixel\AndroidStudioProjects\BluetoothLeGatt_Visitors\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-9f79f91c1d218deaa87b0b6a92025a3bdfa2baa3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pixel\AndroidStudioProjects\BluetoothLeGatt_Visitors\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="61965ae058916e6a57950dd61b0164dc866af19a">
+        <dex dex="C:\Users\Pixel\AndroidStudioProjects\BluetoothLeGatt_Visitors\Application\build\intermediates\pre-dexed\debug\classes-4f37997161a8df3e6ed46c2ab93ef938a0538b5d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pixel\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Pixel\AndroidStudioProjects\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-d441ad9785128c4aa66cc3efeb1351fd11ff9924.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pixel\AndroidStudioProjects\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Pixel\AndroidStudioProjects\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\classes-691b06b4c5657685d7c194c59be9234be317dba2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pixel\AndroidStudioProjects\SmartBeaconScanner_Visitor\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Pixel\AndroidStudioProjects\SmartBeaconScanner_Visitor\Application\build\intermediates\pre-dexed\debug\classes-db677c7f833afba87f40223b38e0a4773260b4fa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pixel\AndroidStudioProjects\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="61965ae058916e6a57950dd61b0164dc866af19a">
+        <dex dex="C:\Users\Pixel\AndroidStudioProjects\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\classes-dbf737a9956982497376ceb56a97b86757cd2630.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pixel\AndroidStudioProjects\SmartBeaconScanner_Visitor\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9346da9fb778af9e451211bbc3541daced174ba7">
+        <dex dex="C:\Users\Pixel\AndroidStudioProjects\SmartBeaconScanner_Visitor\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-d5e26fa5deb829c43c944e7a7c0cdddc428689c6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pixel\AndroidStudioProjects\BluetoothLeGatt_Visitors\Application\build\intermediates\exploded-aar\org.altbeacon\android-beacon-library\2.1.4\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fc2b4fa86d40b71af744611751543dfe079eff58">
+        <dex dex="C:\Users\Pixel\AndroidStudioProjects\BluetoothLeGatt_Visitors\Application\build\intermediates\pre-dexed\debug\classes-317f2e52563773d7ec2668d3768ed8f35250915b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pixel\AndroidStudioProjects\BluetoothLeGatt\Application\build\intermediates\exploded-aar\org.altbeacon\android-beacon-library\2.1.4\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fc2b4fa86d40b71af744611751543dfe079eff58">
+        <dex dex="C:\Users\Pixel\AndroidStudioProjects\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\classes-806c3f8fa41b13b8f38928abdcb23461174d0fa6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pixel\AndroidStudioProjects\SmartBeaconScanner_Visitor\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="C:\Users\Pixel\AndroidStudioProjects\SmartBeaconScanner_Visitor\Application\build\intermediates\pre-dexed\debug\classes-062591ca83bb08f4aad76b91286c6b592201ea3f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pixel\AndroidStudioProjects\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="C:\Users\Pixel\AndroidStudioProjects\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\classes-a48823816b1714919fb7fbd1415f3ef3ee032feb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pixel\AndroidStudioProjects\SmartBeaconScanner_Visitor\Application\build\intermediates\exploded-aar\org.altbeacon\android-beacon-library\2.1.4\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fc2b4fa86d40b71af744611751543dfe079eff58">
+        <dex dex="C:\Users\Pixel\AndroidStudioProjects\SmartBeaconScanner_Visitor\Application\build\intermediates\pre-dexed\debug\classes-359bcd12633669c2c0fa5ed21d53b9751d217cb0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pixel\AndroidStudioProjects\SmartBeaconScanner_Visitor\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="61965ae058916e6a57950dd61b0164dc866af19a">
+        <dex dex="C:\Users\Pixel\AndroidStudioProjects\SmartBeaconScanner_Visitor\Application\build\intermediates\pre-dexed\debug\classes-d630cf42d1bd2759c770212d562dcfcb5fe38fb5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pixel\AndroidStudioProjects\BluetoothLeGatt_Visitors\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Pixel\AndroidStudioProjects\BluetoothLeGatt_Visitors\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-3abfb7ae39d7cc963ed6e1820cd7dc525dd9d436.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pixel\AndroidStudioProjects\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9346da9fb778af9e451211bbc3541daced174ba7">
+        <dex dex="C:\Users\Pixel\AndroidStudioProjects\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-01fb2e154f2de7bcc842529709800ec302791af5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pixel\AndroidStudioProjects\SmartBeaconScanner_Visitor\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Pixel\AndroidStudioProjects\SmartBeaconScanner_Visitor\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-99331a4fb2e450eb6a000dd9fef64b79cdc4d6ab.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pixel\AndroidStudioProjects\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9346da9fb778af9e451211bbc3541daced174ba7">
+        <dex dex="C:\Users\Pixel\AndroidStudioProjects\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-01fb2e154f2de7bcc842529709800ec302791af5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pixel\AndroidStudioProjects\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="C:\Users\Pixel\AndroidStudioProjects\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\classes-a48823816b1714919fb7fbd1415f3ef3ee032feb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pixel\AndroidStudioProjects\BluetoothLeGatt_Visitors\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="C:\Users\Pixel\AndroidStudioProjects\BluetoothLeGatt_Visitors\Application\build\intermediates\pre-dexed\debug\classes-a4e61b32b92a131bc357131754eb762d8d44c117.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pixel\AndroidStudioProjects\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="61965ae058916e6a57950dd61b0164dc866af19a">
+        <dex dex="C:\Users\Pixel\AndroidStudioProjects\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\classes-dbf737a9956982497376ceb56a97b86757cd2630.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pixel\AndroidStudioProjects\BluetoothLeGatt\Application\build\intermediates\exploded-aar\org.altbeacon\android-beacon-library\2.1.4\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="fc2b4fa86d40b71af744611751543dfe079eff58">
+        <dex dex="C:\Users\Pixel\AndroidStudioProjects\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\classes-806c3f8fa41b13b8f38928abdcb23461174d0fa6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pixel\AndroidStudioProjects\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Pixel\AndroidStudioProjects\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-f544308e6e8400dfe221b6ab7113389bc8dad09d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pixel\AndroidStudioProjects\BluetoothLeGatt_Visitors\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Pixel\AndroidStudioProjects\BluetoothLeGatt_Visitors\Application\build\intermediates\pre-dexed\debug\classes-219921324da0ad02a19905dcc8e69d5222bacaee.jar" />
+    </item>
+
+</items>

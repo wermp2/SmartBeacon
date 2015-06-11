@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:weightSum="1"
+    android:orientation="vertical">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1.64">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="New Text"
+            android:id="@+id/textView"
+            android:layout_weight="0.31"
+            android:layout_gravity="left|top" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="New Text"
+            android:id="@+id/textView2"
+            android:layout_row="0"
+            android:layout_column="0"
+            android:layout_gravity="center_horizontal|top" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="New Textz"
+            android:id="@+id/textView4"
+            android:layout_row="0"
+            android:layout_column="7"
+            android:layout_gravity="right|top" />
+
+        <ProgressBar
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="201dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/progressBar2"
+            android:layout_gravity="center_horizontal|bottom"
+            android:layout_weight="0.10" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ein badkjf skdjf kfjjf jjf fjfkjfskdjfsl kdkdk fkfjks fkf kfsljf s fkjsljf s fdkjdfdj dfkjjfjf dkjdfslfj dfidfje fieifj e33348j jfiejienf"
+            android:id="@+id/textView3"
+            android:layout_row="0"
+            android:layout_column="5"
+            android:layout_gravity="left|center_vertical"
+            android:minLines="4"
+            android:lines="4" />
+    </FrameLayout>
+
+</LinearLayout>
+<!-- From: file:/C:/Users/Pixel/AndroidStudioProjects/SmartBeaconScanner_Visitor/Application/src/main/res/layout/table_entry_layout.xml -->

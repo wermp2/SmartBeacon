@@ -1,0 +1,8 @@
+C:\Users\Pixel\AndroidStudioProjects\SmartBeaconScanner_Visitor\Application\build\intermediates\classes\debug
+C:\Users\Pixel\AndroidStudioProjects\SmartBeaconScanner_Visitor\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-d5e26fa5deb829c43c944e7a7c0cdddc428689c6.jar
+C:\Users\Pixel\AndroidStudioProjects\SmartBeaconScanner_Visitor\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-d441ad9785128c4aa66cc3efeb1351fd11ff9924.jar
+C:\Users\Pixel\AndroidStudioProjects\SmartBeaconScanner_Visitor\Application\build\intermediates\pre-dexed\debug\classes-d630cf42d1bd2759c770212d562dcfcb5fe38fb5.jar
+C:\Users\Pixel\AndroidStudioProjects\SmartBeaconScanner_Visitor\Application\build\intermediates\pre-dexed\debug\classes-062591ca83bb08f4aad76b91286c6b592201ea3f.jar
+C:\Users\Pixel\AndroidStudioProjects\SmartBeaconScanner_Visitor\Application\build\intermediates\pre-dexed\debug\classes-359bcd12633669c2c0fa5ed21d53b9751d217cb0.jar
+C:\Users\Pixel\AndroidStudioProjects\SmartBeaconScanner_Visitor\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-99331a4fb2e450eb6a000dd9fef64b79cdc4d6ab.jar
+C:\Users\Pixel\AndroidStudioProjects\SmartBeaconScanner_Visitor\Application\build\intermediates\pre-dexed\debug\classes-db677c7f833afba87f40223b38e0a4773260b4fa.jar
